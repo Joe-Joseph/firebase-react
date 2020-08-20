@@ -1,4 +1,5 @@
 React, Redux, Firebase, Firestore, Cloud functions.
+you can visit the [site now](https://joe-marioplan.web.app/)
 
 ## Available Scripts
 
